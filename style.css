@@ -78,7 +78,7 @@ li a:hover::after {
 }
 .ilo{
     margin-top: 850px;
-    width: 100%;
+    width: 1200px;
     box-shadow: -1px 4px 59px 3px rgba(0,0,0,0.75);
     max-width: 1880px;
     border-radius: 70px;
@@ -87,19 +87,19 @@ li a:hover::after {
     justify-items: center;
     margin-left: 100px;
     background-image: linear-gradient(0deg, #050809 0%, #10151c 37%, #405572 71%, #3c77cb 100%);
-    height: 1050px;  
+    height: 550px;  
     border-radius: 70px;
 }
 h1 {
-    font-size: 140px;
+    font-size: 100px;
     font-family: RUBIK;
     text-shadow: 4px 4px 10px #000000;
-    margin-top: 350px;
+    margin-top: 230px;
     color: white;
     text-align: center;
 }
 .expect{
-    font-size: 100px;
+    font-size: 50px;
     font-family: RUBIK;
     color: white;
     line-height: 3;
@@ -153,15 +153,16 @@ h1 {
 }
 
 .portfolio-item .aqua {
-    width: 100%;
-    height: 200px;
+    width: 200px;
+    height: 100px;
     object-fit: cover;
+    margin-left: 150px;
 }
 .portfolio-item .ocean {
-    width: 60%;
-    height: 200px;
+    width: 150px;
+    height: 100px;
     object-fit: cover;
-    margin-left: 95px;
+    margin-left: 170px;
 }
 .portfolio-item .desc {
     padding: 20px;
@@ -169,7 +170,7 @@ h1 {
 }
 
 .title {
-    font-size: 60px;
+    font-size: 40px;
     color: white;
     font-family: RUBIK;
     line-height: 2;
@@ -179,7 +180,7 @@ h1 {
 .p1 {
     font-family: Quicksand;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center; 
     margin-left: auto;
     margin-right: auto;
@@ -227,33 +228,33 @@ h1 {
 .main .b1 .l1 {
     position: absolute;
     left: 0;
-    font-size: 100px;
+    font-size: 40px;
     font-family: RUBIK;
-    top: 1000px;
+    top: 950px;
     color: white; 
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .l2{
     position: absolute; 
-    top: 1150px; 
+    top: 1030px; 
     left: 0; 
-    font-size: 40px;
-    max-width: 700px;
+    font-size: 30px;
+    max-width: 600px;
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .btn {
     position: absolute;
-    top: 1750px;
+    top: 1470px;
     background-color: #024283; 
-    width: 500px;
+    width: 400px;
     height: 100px;
     left: 19%; 
     transform: translateX(-50%);
@@ -279,16 +280,16 @@ h1 {
 
 .container {
     border-radius: 10px;
-    top: 1100px;
+    top: 1050px;
     position: relative;
 }
 
 .slideshow {
     position: relative;
-    width: 900px;
+    width: 600px;
     left: 53%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
-    height: 750px;
+    height: 520px;
     overflow: hidden; 
     border-radius: 20px;
 }
@@ -337,7 +338,7 @@ h1 {
 .slideshow .slide img {
     border-radius: 5px;
     width: 100%;
-    height: 100%;
+    height: 550px;
     
 }
 
@@ -346,7 +347,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    left: 50%;
+    left: 12%;
     transform: translateX(1000%);  
     z-index: 10; 
 }
@@ -370,36 +371,36 @@ h1 {
 .main .b2 .l3 {
     position: absolute;
     right: 0;
-    font-size: 100px;
+    font-size: 40px;
     font-family: RUBIK;
-    top: 2200px;
+    top: 1980px;
     color: white; 
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 150px;
+    margin-right: 80px;
 }
 
 .l4{
     position: absolute;
-    top: 2350px; 
+    top: 2070px; 
     right: 0; 
-    font-size: 40px;
+    font-size: 30px;
     max-width: 700px;
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 150px;
+    margin-right: 80px;
     text-align: right;
 }
 
 .btn1 {
     position: absolute;
-    top: 3000px;
+    top: 2500px;
     background-color: #024283; 
-    width: 500px;
+    width: 400px;
     height: 100px;
-    right: -4.5%; 
+    right: -8.5%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -430,10 +431,10 @@ h1 {
 
 .slideshow1 {
     position: relative;
-    width: 800px;
-    right: 35%;
+    width: 565px;
+    right: 103%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
-    height: 800px;
+    height: 550px;
     overflow: hidden; 
     border-radius: 20px;
 }
@@ -470,8 +471,8 @@ h1 {
     display: none;
     height: 100%;
     position: absolute;
-    width: 100%;
-    height: 800px;
+    width: 565px;
+    height: 550px;
     border-radius: 20px;
 }
 
@@ -491,7 +492,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    right: 138%;
+    right: 240%;
     transform: translateX(1000%);  
     z-index: 10; 
 }
@@ -515,33 +516,33 @@ h1 {
 .l5 {
     position: absolute;
     left: 0;
-    font-size: 100px;
+    font-size: 40px;
     font-family: RUBIK;
-    top: 3440px;
+    top: 2950px;
     color: white; /* Ensure the text color is white */
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .l6{
     position: absolute; 
-    top: 3600px; 
+    top: 3050px; 
     left: 0; 
-    font-size: 40px;
-    max-width: 700px;
+    font-size: 30px;
+    max-width: 600px;
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .btn2 {
     position: absolute;
-    top: 4250px;
+    top: 3530px;
     background-color: #024283; 
-    width: 500px;
+    width: 400px;
     height: 100px;
     left: 19%; 
     transform: translateX(-50%);
@@ -567,16 +568,16 @@ h1 {
 
 .container2 {
     border-radius: 10px;
-    top: 2000px;
+    top: 1980px;
     position: relative;
 }
 
 .slideshow2 {
     position: relative;
-    width: 680px;
-    left: 70%;
+    width: 600px;
+    left: 55%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
-    height: 800px;
+    height: 600px;
     overflow: hidden; 
     border-radius: 20px;
 }
@@ -634,7 +635,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    left: 60%;
+    left: 15%;
     transform: translateX(1000%);  
     z-index: 10;  
 }
@@ -658,36 +659,36 @@ h1 {
  .l7 {
     position: absolute;
     right: 0;
-    font-size: 100px;
+    font-size: 40px;
     font-family: RUBIK;
-    top: 4550px;
+    top: 4130px;
     color: white;
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 150px;
+    margin-right: 80px;
 }
 
 .l8{
     position: absolute; 
-    top: 4750px; 
+    top: 4210px; 
     right: 0; 
-    font-size: 40px;
-    max-width: 700px;
+    font-size: 30px;
+    max-width: 500px;
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 150px;
+    margin-right: 80px;
     text-align: right;
 }
 
 .btn3 {
     position: absolute;
-    top: 5400px;
+    top: 4720px;
     background-color: #024283; 
     width: 500px;
     height: 100px;
-    right: -4.5%; 
+    right: -12.3%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -712,16 +713,16 @@ h1 {
 
 .container3 {
     border-radius: 10px;
-    top: 2320px;
+    top: 2560px;
     position: relative;
 }
 
 .slideshow3 {
     position: relative;
     width: 600px;
-    right: 35%;
+    right: 100%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
-    height: 850px;
+    height: 590px;
     overflow: hidden; /* Prevent overflow of images */
     border-radius: 20px;
 }
@@ -779,7 +780,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-    right: 147%;
+    right: 233%;
     transform: translateX(1000%);  /* Center horizontally */
     z-index: 10;  /* Ensure it stays on top */
 }
@@ -803,35 +804,35 @@ h1 {
 .l9 {
     position: absolute;
     left: 0;
-    font-size: 100px;
+    font-size: 40px;
     font-family: RUBIK;
-    top: 5795px;
+    top: 5740px;
     color: white; /* Ensure the text color is white */
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .l10{
     position: absolute; 
-    top: 6000px; /* Adjust this based on where you want the text to appear */
+    top: 5850px; /* Adjust this based on where you want the text to appear */
     left: 0; /* Align it to the left of the parent .b1 container */
-    font-size: 40px;
-    max-width: 700px;
+    font-size: 30px;
+    max-width: 500px;
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 
 .btn4 {
     position: absolute;
-    top: 6490px;
+    top: 6240px;
     background-color: #024283; 
-    width: 500px;
+    width: 300px;
     height: 100px;
-    left: 19%; 
+    left: 16%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -855,16 +856,16 @@ h1 {
 
 .container4 {
     border-radius: 10px;
-    top: 2700px;
+    top: 3570px;
     position: relative;
 }
 
 .slideshow4 {
     position: relative;
-    width: 1000px;
+    width: 650px;
     left: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
-    height: 700px;
+    height: 520px;
     overflow: hidden; 
     border-radius: 20px;
 }
@@ -922,7 +923,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    left: 43%;
+    left: 4%;
     transform: translateX(1000%);  
     z-index: 10;  
 }
@@ -989,12 +990,39 @@ h1 {
     font-family: Quicksand;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
+
+    .start{
+        font-size: 60px;
+        font-family: RUBIK;
+        text-shadow: 4px 4px 10px #000000;
+        color: white;
+        text-align: center;
+        margin-top: 800px;
+    }
+    
+    
+    .circle-arrow {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        margin-top: 60px;
+    }
+    
+    .arrow {
+        width: 20px;
+        height: 20px;
+        border-left: 3px solid white; 
+        border-bottom: 3px solid white; 
+        transform: rotate(315deg); 
+        margin-left: -35px;
+    }
+    
     .to-top {
         background: white;
         position: fixed;
         bottom: 16px;
-        right: 250px;
+        right: 290px;
         height: 50px;
         width: 50px;  /* Ensure width matches height for a circular button */
         border-radius: 50%;  /* Circular shape */
@@ -1032,8 +1060,8 @@ h1 {
     }
     
     .b5 img {
-        width: 50px;  /* Keep fixed size */
-        height: 50px;  /* Keep fixed size */
+        width: 30px;  /* Keep fixed size */
+        height: 30px;  /* Keep fixed size */
         margin: 0 10px;  /* Add space between images */
     }
     .navbar {
@@ -1042,9 +1070,11 @@ h1 {
         padding-right: 15px;
         padding-left: 15px;
         height: 80px;
-        width: 470px;
+        width: 390px;
     }
-    
+    .ct{
+        margin-left: -70px;
+    }
     .navdiv {
         display: flex;
         align-items: center;
@@ -1098,7 +1128,7 @@ h1 {
         position: absolute; 
         top: 0;
         left: 0;
-        width: 100%;
+        width: 429px;
         height: 700vh; 
         z-index: -1; 
     }
@@ -1113,8 +1143,11 @@ h1 {
     }
 
     h1{
-        font-size: 55px;
+        position: relative;
+        font-size: 50px;
         margin-top: 200px;
+        margin-left: -50px;
+        left: 0;
     }
 
     .info {
@@ -1143,7 +1176,7 @@ h1 {
 
     .ilo{
         display: grid;
-        width: 380px;
+        width: 320px;
         height: 1080px;
         left: 0;
         margin-left:30px;
@@ -1157,7 +1190,7 @@ h1 {
         font-family: RUBIK;
         color: white;
         text-align: left;
-        left: 120px;
+        left: 90px;
         text-shadow: 1px 1px 9px rgba(0,0,0,0.75);
     }
     
@@ -1188,7 +1221,7 @@ h1 {
         width: 300px;
         height: 200px;
         object-fit: cover;
-        margin-left: 30px;
+        margin-left: 0px;
         left: 0;
     }
     .portfolio-item .ocean {
@@ -1196,7 +1229,7 @@ h1 {
         width: 200px;
         height: 200px;
         object-fit: cover;
-        margin-left: 80px;
+        margin-left: 40px;
         
     }
     .portfolio-item .desc {
@@ -1211,7 +1244,7 @@ h1 {
         font-family: RUBIK;
         line-height: 2;
         left: 0;
-        margin-left: 125px;
+        margin-left: 90px;
         text-align: left;  
     }
     
@@ -1223,7 +1256,7 @@ h1 {
             font-family: RUBIK;
             line-height: 2;
             left: 0;
-            margin-left: 93px;
+            margin-left: 60px;
             text-align: left;  
 
     }
@@ -1235,7 +1268,7 @@ h1 {
         text-align: center; 
         word-wrap: break-word; 
         left: 0;
-        margin-left: 5px;
+        margin-left: -30px;
     
     }
     
@@ -1268,7 +1301,9 @@ h1 {
         
     }
     
-    
+    .c1{
+        width: 375px;
+    }
     
     .main .b1 .l1 {
         position: absolute;
@@ -1280,7 +1315,7 @@ h1 {
         text-align: left;
         text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
         margin: 100px;
-        margin-left: 140px;
+        margin-left: 110px;
     }
     
     .l2{
@@ -1290,7 +1325,7 @@ h1 {
         font-size: 12px;
         font-family: Quicksand;
         color: white;
-        margin-left: 75px;
+        margin-left: 45px;
         text-align: center;
         max-width: 100%;
         width: 300px;
@@ -1302,7 +1337,7 @@ h1 {
         background-color: #024283; /* Initial background color */
         width: 300px;
         height: 40px;
-        left: 51%; /* This is trying to center the button horizontally */
+        left: 41%; /* This is trying to center the button horizontally */
         transform: translateX(-50%);
         padding: 10px;
         border-radius: 7px;
@@ -1334,7 +1369,7 @@ h1 {
     .slideshow {
         position: relative;
         width: 300px;
-        left: 8%;
+        left: -1%;
         box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
         height: 250px;
         overflow: hidden; /* Prevent overflow of images */
@@ -1394,7 +1429,7 @@ h1 {
         justify-content: center;  /* Ensures pagination items are centered horizontally */
         position: absolute;
         bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-        left: 52%;  /* Moves it to the center */
+        left: 40%;  /* Moves it to the center */
         transform: translateX(-50%);  /* Correctly centers the pagination */
         z-index: 10;  /* Ensure it* Ensure it stays on top */
     }
@@ -1426,7 +1461,7 @@ h1 {
         width: 300px;
         text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
         margin: 100px;
-        margin-left: 70px;
+        margin-left: 40px;
     }
     
     .l4{
@@ -1436,7 +1471,7 @@ h1 {
         font-size: 12px;
         font-family: Quicksand;
         color: white;
-        margin-left: 75px;
+        margin-left: 45px;
         text-align: center;
         max-width: 100%;
         width: 300px;
@@ -1448,7 +1483,7 @@ h1 {
         background-color: #024283; /* Initial background color */
         width: 300px;
         height: 40px;
-        left: 51%; /* This is trying to center the button horizontally */
+        left: 41%; /* This is trying to center the button horizontally */
         transform: translateX(-50%);
         padding: 10px;
         border-radius: 7px;
@@ -1480,7 +1515,7 @@ h1 {
     .slideshow1 {
         position: relative;
         width: 300px;
-        left: 8%;
+        left: -1%;
         box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
         height: 250px;
         overflow: hidden; /* Prevent overflow of images */
@@ -1540,7 +1575,7 @@ h1 {
         justify-content: center;  /* Ensures pagination items are centered horizontally */
         position: absolute;
         bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-        right: 40%;  /* Moves it to the center */
+        right: 55%;  /* Moves it to the center */
         transform: translateX(-50%);  /* Correctly centers the pagination */
         z-index: 10; /* Ensure it* Ensure it stays on top */
         
@@ -1571,7 +1606,7 @@ h1 {
         text-align: left;
         text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
         margin: 100px;
-        margin-left: 120px;
+        margin-left: 80px;
         width: 300px;
     }
     
@@ -1582,7 +1617,7 @@ h1 {
         font-size: 12px;
         font-family: Quicksand;
         color: white;
-        margin-left: 75px;
+        margin-left: 45px;
         text-align: center;
         max-width: 100%;
         width: 300px;
@@ -1594,7 +1629,7 @@ h1 {
         background-color: #024283; /* Initial background color */
         width: 300px;
         height: 40px;
-        left: 51%; /* This is trying to center the button horizontally */
+        left: 41%; /* This is trying to center the button horizontally */
         transform: translateX(-50%);
         padding: 10px;
         border-radius: 7px;
@@ -1626,7 +1661,7 @@ h1 {
     .slideshow2 {
         position: relative;
         width: 300px;
-        left: 8%;
+        left: -1%;
         box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
         height: 250px;
         overflow: hidden; /* Prevent overflow of images */
@@ -1686,7 +1721,7 @@ h1 {
         justify-content: center;  /* Ensures pagination items are centered horizontally */
         position: absolute;
         bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-        left: 52%;  /* Moves it to the center */
+        left: 40%;  /* Moves it to the center */
         transform: translateX(-50%);  /* Correctly centers the pagination */
         z-index: 10;  /* Ensure it* Ensure it stays on top */
     }
@@ -1716,7 +1751,7 @@ h1 {
         text-align: left;
         text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
         margin: 100px;
-        margin-left: 100px;
+        margin-left: 70px;
         width: 300px;
     }
     
@@ -1727,7 +1762,7 @@ h1 {
         font-size: 12px;
         font-family: Quicksand;
         color: white;
-        margin-left: 75px;
+        margin-left: 45px;
         text-align: center;
         max-width: 100%;
         width: 300px;
@@ -1739,7 +1774,7 @@ h1 {
         background-color: #024283; /* Initial background color */
         width: 300px;
         height: 40px;
-        left: 51%; /* This is trying to center the button horizontally */
+        left: 41%; /* This is trying to center the button horizontally */
         transform: translateX(-50%);
         padding: 10px;
         border-radius: 7px;
@@ -1771,7 +1806,7 @@ h1 {
     .slideshow3 {
         position: relative;
         width: 300px;
-        left: 8%;
+        left: -1%;
         box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
         height: 250px;
         overflow: hidden; /* Prevent overflow of images */
@@ -1831,7 +1866,7 @@ h1 {
         justify-content: center;  /* Ensures pagination items are centered horizontally */
         position: absolute;
         bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-        right: 40%;  /* Moves it to the center */
+        right: 55%;  /* Moves it to the center */
         transform: translateX(-50%);  /* Correctly centers the pagination */
         z-index: 10;  /* Ensure it* Ensure it stays on top */
     }
@@ -1862,7 +1897,7 @@ h1 {
         text-align: left;
         text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
         margin: 100px;
-        margin-left: 160px;
+        margin-left: 120px;
     }
     
     .l10{
@@ -1872,7 +1907,7 @@ h1 {
         font-size: 12px;
         font-family: Quicksand;
         color: white;
-        margin-left: 75px;
+        margin-left: 45px;
         text-align: center;
         max-width: 100%;
         width: 300px;
@@ -1884,7 +1919,7 @@ h1 {
         background-color: #024283; /* Initial background color */
         width: 300px;
         height: 40px;
-        left: 51%; /* This is trying to center the button horizontally */
+        left: 41%; /* This is trying to center the button horizontally */
         transform: translateX(-50%);
         padding: 10px;
         border-radius: 7px;
@@ -1916,7 +1951,7 @@ h1 {
     .slideshow4 {
         position: relative;
         width: 300px;
-        left: 8%;
+        left: -1%;
         box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
         height: 250px;
         overflow: hidden; /* Prevent overflow of images */
@@ -1976,7 +2011,7 @@ h1 {
         justify-content: center;  /* Ensures pagination items are centered horizontally */
         position: absolute;
         bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-        left: 52%;  /* Moves it to the center */
+        left: 40%;  /* Moves it to the center */
         transform: translateX(-50%);  /* Correctly centers the pagination */
         z-index: 10;  /* Ensure it* Ensure it stays on top */
     }
