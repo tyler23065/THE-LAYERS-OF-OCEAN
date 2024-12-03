@@ -973,8 +973,7 @@ h1 {
     font-size: 32px;
     color: black;
     z-index: 10000;
-    opacity: 0;
-    pointer-events: none;
+    opacity: 1;
     transition: opacity 0.4s, bottom 0.4s; 
 }
 
