@@ -286,7 +286,7 @@ h1 {
 
 .slideshow {
     position: relative;
-    width: 750px;
+    width: 450px;
     left: 53%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
@@ -432,7 +432,7 @@ h1 {
 .slideshow1 {
     position: relative;
     width: 780px;
-    right: 40%;
+    right: 20%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 550px;
     overflow: hidden; 
@@ -574,8 +574,8 @@ h1 {
 
 .slideshow2 {
     position: relative;
-    width: 800px;
-    left: 40%;
+    width: 600px;
+    left: 50%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 600px;
     overflow: hidden; 
@@ -720,7 +720,7 @@ h1 {
 .slideshow3 {
     position: relative;
     width: 900px;
-    right: 40%;
+    right: 20%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 590px;
     overflow: hidden; /* Prevent overflow of images */
@@ -862,7 +862,7 @@ h1 {
 
 .slideshow4 {
     position: relative;
-    width: 800px;
+    width: 600px;
     left: 60%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
