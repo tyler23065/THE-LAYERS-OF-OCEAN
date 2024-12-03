@@ -78,7 +78,7 @@ li a:hover::after {
 }
 .ilo{
     margin-top: 850px;
-    width: 1550px;
+    width: 1700px;
     box-shadow: -1px 4px 59px 3px rgba(0,0,0,0.75);
     max-width: 1880px;
     border-radius: 70px;
@@ -235,7 +235,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 170px;
 }
 
 .l2{
@@ -247,7 +247,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 170px;
 }
 
 .btn {
@@ -432,7 +432,7 @@ h1 {
 .slideshow1 {
     position: relative;
     width: 780px;
-    right: 50%;
+    right: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 550px;
     overflow: hidden; 
@@ -720,7 +720,7 @@ h1 {
 .slideshow3 {
     position: relative;
     width: 900px;
-    right: 50%;
+    right: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 590px;
     overflow: hidden; /* Prevent overflow of images */
@@ -863,7 +863,7 @@ h1 {
 .slideshow4 {
     position: relative;
     width: 800px;
-    left: 40%;
+    left: 60%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
     overflow: hidden; 
