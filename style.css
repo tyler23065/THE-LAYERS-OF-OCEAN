@@ -78,7 +78,7 @@ li a:hover::after {
 }
 .ilo{
     margin-top: 850px;
-    width: 1200px;
+    width: 1550px;
     box-shadow: -1px 4px 59px 3px rgba(0,0,0,0.75);
     max-width: 1880px;
     border-radius: 70px;
@@ -235,7 +235,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .l2{
@@ -247,7 +247,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .btn {
@@ -286,7 +286,7 @@ h1 {
 
 .slideshow {
     position: relative;
-    width: 600px;
+    width: 750px;
     left: 53%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
@@ -378,7 +378,7 @@ h1 {
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 80px;
+    margin-right: 130px;
 }
 
 .l4{
@@ -390,7 +390,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 80px;
+    margin-right: 130px;
     text-align: right;
 }
 
@@ -400,7 +400,7 @@ h1 {
     background-color: #024283; 
     width: 400px;
     height: 100px;
-    right: -8.5%; 
+    right: -3.5%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -431,8 +431,8 @@ h1 {
 
 .slideshow1 {
     position: relative;
-    width: 565px;
-    right: 103%;
+    width: 780px;
+    right: 50%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 550px;
     overflow: hidden; 
@@ -471,7 +471,7 @@ h1 {
     display: none;
     height: 100%;
     position: absolute;
-    width: 565px;
+    width: 780px;
     height: 550px;
     border-radius: 20px;
 }
@@ -523,7 +523,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .l6{
@@ -535,7 +535,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .btn2 {
@@ -574,8 +574,8 @@ h1 {
 
 .slideshow2 {
     position: relative;
-    width: 600px;
-    left: 55%;
+    width: 800px;
+    left: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 600px;
     overflow: hidden; 
@@ -666,7 +666,7 @@ h1 {
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 80px;
+    margin-right: 130px;
 }
 
 .l8{
@@ -678,7 +678,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 80px;
+    margin-right: 130px;
     text-align: right;
 }
 
@@ -688,7 +688,7 @@ h1 {
     background-color: #024283; 
     width: 500px;
     height: 100px;
-    right: -12.3%; 
+    right: -6.5%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -719,8 +719,8 @@ h1 {
 
 .slideshow3 {
     position: relative;
-    width: 600px;
-    right: 100%;
+    width: 900px;
+    right: 50%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 590px;
     overflow: hidden; /* Prevent overflow of images */
@@ -811,7 +811,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .l10{
@@ -823,7 +823,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 80px;
+    margin-left: 130px;
 }
 
 .btn4 {
@@ -862,7 +862,7 @@ h1 {
 
 .slideshow4 {
     position: relative;
-    width: 650px;
+    width: 800px;
     left: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
@@ -973,7 +973,8 @@ h1 {
     font-size: 32px;
     color: black;
     z-index: 10000;
-    opacity: 1;
+    opacity: 1;
+
     transition: opacity 0.4s, bottom 0.4s; 
 }
 
