@@ -78,7 +78,7 @@ li a:hover::after {
 }
 .ilo{
     margin-top: 850px;
-    width: 1400px;
+    width: 1200px;
     box-shadow: -1px 4px 59px 3px rgba(0,0,0,0.75);
     max-width: 1880px;
     border-radius: 70px;
@@ -149,7 +149,7 @@ h1 {
     height: 550px;
     border-radius: 8px;
     overflow: hidden;
-    
+    transition: transform 0.3s ease-in-out;
 }
 
 .portfolio-item .aqua {
@@ -235,7 +235,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 170px;
+    margin-left: 80px;
 }
 
 .l2{
@@ -247,7 +247,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 170px;
+    margin-left: 80px;
 }
 
 .btn {
@@ -286,7 +286,7 @@ h1 {
 
 .slideshow {
     position: relative;
-    width: 450px;
+    width: 600px;
     left: 53%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
@@ -378,7 +378,7 @@ h1 {
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 130px;
+    margin-right: 80px;
 }
 
 .l4{
@@ -390,7 +390,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 130px;
+    margin-right: 80px;
     text-align: right;
 }
 
@@ -400,7 +400,7 @@ h1 {
     background-color: #024283; 
     width: 400px;
     height: 100px;
-    right: -3.5%; 
+    right: -8.5%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -431,8 +431,8 @@ h1 {
 
 .slideshow1 {
     position: relative;
-    width: 780px;
-    right: 20%;
+    width: 565px;
+    right: 103%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 550px;
     overflow: hidden; 
@@ -471,7 +471,7 @@ h1 {
     display: none;
     height: 100%;
     position: absolute;
-    width: 780px;
+    width: 565px;
     height: 550px;
     border-radius: 20px;
 }
@@ -492,7 +492,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    right: 270%;
+    right: 240%;
     transform: translateX(1000%);  
     z-index: 10; 
 }
@@ -523,7 +523,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 80px;
 }
 
 .l6{
@@ -535,7 +535,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 80px;
 }
 
 .btn2 {
@@ -575,7 +575,7 @@ h1 {
 .slideshow2 {
     position: relative;
     width: 600px;
-    left: 50%;
+    left: 55%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 600px;
     overflow: hidden; 
@@ -635,7 +635,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    left: 20%;
+    left: 15%;
     transform: translateX(1000%);  
     z-index: 10;  
 }
@@ -666,7 +666,7 @@ h1 {
     text-align: right;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-right: 130px;
+    margin-right: 80px;
 }
 
 .l8{
@@ -678,7 +678,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-right: 130px;
+    margin-right: 80px;
     text-align: right;
 }
 
@@ -688,7 +688,7 @@ h1 {
     background-color: #024283; 
     width: 500px;
     height: 100px;
-    right: -6.5%; 
+    right: -12.3%; 
     transform: translateX(-50%);
     padding: 10px;
     border-radius: 7px;
@@ -719,8 +719,8 @@ h1 {
 
 .slideshow3 {
     position: relative;
-    width: 900px;
-    right: 20%;
+    width: 600px;
+    right: 100%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 590px;
     overflow: hidden; /* Prevent overflow of images */
@@ -780,7 +780,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  /* Adjusts distance from bottom of slideshow */
-    right: 243%;
+    right: 233%;
     transform: translateX(1000%);  /* Center horizontally */
     z-index: 10;  /* Ensure it stays on top */
 }
@@ -811,7 +811,7 @@ h1 {
     text-align: left;
     text-shadow: 2px 1px 6px rgba(0,0,0,0.85);
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 80px;
 }
 
 .l10{
@@ -823,7 +823,7 @@ h1 {
     font-family: Quicksand;
     color: white;
     margin: 100px;
-    margin-left: 130px;
+    margin-left: 80px;
 }
 
 .btn4 {
@@ -862,8 +862,8 @@ h1 {
 
 .slideshow4 {
     position: relative;
-    width: 600px;
-    left: 60%;
+    width: 650px;
+    left: 40%;
     box-shadow: 1px 3px 76px -16px rgba(0, 0, 0, 0.75);
     height: 520px;
     overflow: hidden; 
@@ -923,7 +923,7 @@ h1 {
     justify-content: center;
     position: absolute;
     bottom: 20px;  
-    left: 8%;
+    left: 4%;
     transform: translateX(1000%);  
     z-index: 10;  
 }
@@ -973,8 +973,8 @@ h1 {
     font-size: 32px;
     color: black;
     z-index: 10000;
-    opacity: 1;
-
+    opacity: 0;
+    pointer-events: none;
     transition: opacity 0.4s, bottom 0.4s; 
 }
 
@@ -1015,7 +1015,7 @@ h1 {
         border-left: 3px solid white; 
         border-bottom: 3px solid white; 
         transform: rotate(315deg); 
-        margin-left: -35px;
+        margin-left: -45px;
     }
     
     .to-top {
